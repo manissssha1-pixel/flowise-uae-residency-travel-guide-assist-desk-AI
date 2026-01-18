@@ -65,4 +65,4 @@ This project uses **five key Flowise nodes**:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/uae-residency-travel-guide-assist-desk-ai.git
+git clone https://github.com/manissssha1-pixel/flowise-uae-residency-travel-guide-assist-desk-AI
